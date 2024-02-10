@@ -26,9 +26,9 @@ body {
 
 header {
     grid-column: 1 / -1;
-    margin-bottom: 20px;
     background-color: white;
     border-radius: 20px;
+    margin-bottom: 10px;
 }
 
 header h1 {
