@@ -129,3 +129,10 @@ main div ol li {
 main div figure {
     padding-bottom: 5px;
 }
+
+@media (prefers-reduced-motion) {
+    /* styles to apply if a user's device settings are set to reduced motion */
+    .gif {
+        display: none;
+    }
+}  
